@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4801
     wikipedia: http://en.wikipedia.org/wiki/Charles_W._Whistler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14034#King-Alfred-s-VikingA-Story-of-the-First-English-Fleet
 gutenberg_bookshelf:
 - Historical Fiction
 - Children's History
